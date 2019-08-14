@@ -3,7 +3,7 @@
     "type": "magento-module",
     "license": "GNU-General-Public-License-(GPL)",
     "homepage": "",
-    "description": "Adds real-time Web & Ecommerce Analytics from Stetic with event tracking of all important actions to Magento.",
+    "description": "Adds real-time Web &amp; Ecommerce Analytics from Stetic with event tracking of all important actions to Magento.",
     "authors": [
     {
         "name": "Stetic",
