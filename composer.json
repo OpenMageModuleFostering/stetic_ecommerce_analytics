@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Stetic_Ecommerce_Analytics",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "Adds real-time Web & Ecommerce Analytics from Stetic with event tracking of all important actions to Magento.",
+    "authors": [
+    {
+        "name": "Stetic",
+        "email": "hello@stetic.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
